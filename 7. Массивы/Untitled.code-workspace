@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "/Users/sdarron/sdarron/get_next_line"
+		},
+		{
+			"path": "/Users/sdarron/sdarron/libft_gen/libft"
+		},
+		{
+			"path": "/Users/sdarron/sdarron/fillit"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"libft.h": "c"
+		}
+	}
+}
